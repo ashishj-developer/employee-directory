@@ -39,7 +39,7 @@ Edit
 ## 🚀 How to Run
 
 ### 1. Compile Java
-```bash
+
 javac -cp "lib/freemarker-2.3.34.jar" -d bin src/Main.java
 2. Run the App
 
@@ -81,3 +81,8 @@ Uses Freemarker's .ftlh template:
 <#list employees as emp>
   <div>${emp.firstName} ${emp.lastName}</div>
 </#list>
+
+
+screenshot 
+<img width="1710" height="1112" alt="Screenshot 2025-07-11 at 8 09 16 PM" src="https://github.com/user-attachments/assets/dcd1b1c5-9980-4885-8bce-e9fa3c69e07e" />
+
